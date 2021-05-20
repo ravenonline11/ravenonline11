@@ -1,5 +1,5 @@
 - 👋 Hello visitor,
-- I'm Rajeev Awasthi
+- # I'm Rajeev Awasthi
 - Compliance Consultant || avid reader || Tech Enthusiast || Blockchain newbie
 - 👀 I’m interested in new technologies and their integration into business use cases
 - 🌱 I’m currently learning Blockchain and smart contract development for their integration into the industrial use cases for solving challenges of the society in fields of education, compliance and arts and music
