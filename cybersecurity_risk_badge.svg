@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="48" viewBox="0 0 300 48">
+  <defs>
+    <linearGradient id="grad-cyber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2b0000"/>
+      <stop offset="100%" stop-color="#8B0000"/>
+    </linearGradient>
+    <filter id="glow-cyber" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .badge { fill: url(#grad-cyber); stroke: #ff3b3b; stroke-width: 1.5; filter: url(#glow-cyber); }
+      .label { font: 600 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; opacity: .9; }
+      .value { font: 700 16px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; }
+      .icon { fill: none; stroke: #fff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      @keyframes pulse { 
+        0% { transform: scale(1); }
+        50% { transform: scale(1.02); }
+        100% { transform: scale(1); }
+      }
+      @keyframes neon {
+        0%,100% { stroke: #ff6b6b; }
+        50% { stroke: #ff3b3b; }
+      }
+      g.pulse { animation: pulse 2.6s ease-in-out infinite; transform-origin: 150px 24px; }
+      rect.badge { animation: neon 2.6s ease-in-out infinite; }
+    </style>
+  </defs>
+  <g class="pulse">
+    <rect class="badge" x="2" y="2" rx="12" ry="12" width="296" height="44"/>
+    <!-- Padlock icon -->
+    <g transform="translate(18,12)">
+      <rect class="icon" x="6" y="14" width="20" height="16" rx="3"/>
+      <path class="icon" d="M10,14 v-4 a8,8 0 0 1 16,0 v4"/>
+      <circle class="icon" cx="16" cy="22" r="2"/>
+      <path class="icon" d="M16,24 v4"/>
+    </g>
+    <text class="label" x="60" y="20">RISK CATEGORY</text>
+    <text class="value" x="60" y="34">Cybersecurity Risk</text>
+  </g>
+</svg>
