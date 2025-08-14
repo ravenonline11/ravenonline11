@@ -50,8 +50,8 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-a-7094b63b/)  
-[![Email](https://img.shields.io/badge/Email-RA-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravenonline12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-a-7094b63b/)  [![Email](https://img.shields.io/badge/Email-RA-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravenonline12@gmail.com) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://reevodynamics.blogspot.com/)
+
 
 ---
 
