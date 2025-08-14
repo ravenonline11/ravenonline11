@@ -3,6 +3,11 @@
 ## 🚀 About Me
 💼 **Techno-functional Professional** | 13+ years in **Non-Financial Risk Management**  
 📊 **Specialties**: Risk Policy & Governance • Horizon Scanning for Operational Risks • Data Storytelling  
+
+<img src="cybersecurity_risk_badge.svg" width="300" alt="Cyber and Information Security Risk badge" />
+<img src="technology_risk_badge.svg" width="300" alt="Technology Risk badge" />
+<img src="supplier_risk_badge.svg" width="300" alt="Supplier Risk badge" />
+
 🖥 **Tech Skills**: Python • R • SQL • Tableau • Alteryx  
 🌱 **Exploring**: Generative AI • ML • Blockchain • DeFi  
 📚 Currently pursuing **CFA & FRM** to bridge finance & tech expertise.
@@ -20,10 +25,6 @@
 ![Cybersecurity Risk](https://img.shields.io/badge/Cybersecurity%20Risk-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Technology Risk](https://img.shields.io/badge/Technology%20Risk-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Supplier Risk](https://img.shields.io/badge/Supplier%20Risk-228B22?style=for-the-badge&logo=handshake&logoColor=white)
-<img src="cybersecurity_risk_badge.svg" width="300" alt="Cybersecurity Risk badge" />
-<img src="technology_risk_badge.svg" width="300" alt="Technology Risk badge" />
-<img src="supplier_risk_badge.svg" width="300" alt="Supplier Risk badge" />
-
 
 
 ---
