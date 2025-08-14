@@ -1,16 +1,3 @@
-- 👋 Hello visitor,
-- # I'm Rajeev Awasthi
-- Compliance Consultant || avid reader || Tech Enthusiast || Blockchain newbie
-- 👀 I’m interested in new technologies and their integration into business use cases
-- 🌱 I’m currently learning Blockchain and smart contract development for their integration into the industrial use cases for solving challenges of the society in fields of education, compliance and arts and music
-- 💞️ I’m looking to collaborate on any new development ideas in any of the above spaces where we could make an impact on the society
-- 📫 You could reach me via LinkedIn, or via email
-
-<!---
-ravenonline11/ravenonline11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Hi there 👋, I'm Rajeev Awasthi
 
 ## 🚀 About Me
@@ -30,6 +17,14 @@ You can click the Preview link to take a look at your changes.
 ![Alteryx](https://img.shields.io/badge/Alteryx-0076A8?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cybersecurity Risk](https://img.shields.io/badge/Cybersecurity%20Risk-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Technology Risk](https://img.shields.io/badge/Technology%20Risk-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supplier Risk](https://img.shields.io/badge/Supplier%20Risk-228B22?style=for-the-badge&logo=handshake&logoColor=white)
+<img src="cybersecurity_risk_badge.svg" width="300" alt="Cybersecurity Risk badge" />
+<img src="technology_risk_badge.svg" width="300" alt="Technology Risk badge" />
+<img src="supplier_risk_badge.svg" width="300" alt="Supplier Risk badge" />
+
+
 
 ---
 
@@ -48,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 📊 GitHub Stats
-![RA's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![RA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravenonline11&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravenonline11&layout=compact&theme=tokyonight)
 
 ---
 
